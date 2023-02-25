@@ -13,7 +13,7 @@ const About = () => {
     <div className="container my-3 text-center">
       <h2 className='my-4'>About M-BOOK</h2>
       <h5>M-Book Design and Developed By Manu Mishra</h5>
-      <a href="#">Click Here to go on GitHub Account For Code</a>
+      <a href="https://github.com/developer-Manu-Mishra">Click Here to go on GitHub Account For Code</a>
     </div>
     </>
   )
